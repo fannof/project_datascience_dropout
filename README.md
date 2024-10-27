@@ -6,7 +6,7 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan perguruan yang tela
 Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar untuk sebuah institusi pendidikan. Oleh karena itu, Jaya Jaya Institut ingin mendeteksi secepat mungkin siswa yang mungkin akan melakukan dropout sehingga dapat diberi bimbingan khusus.
 
 ### Permasalahan Bisnis
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+
 
 ### Cakupan Proyek
 Tuliskan cakupan proyek yang akan dikerjakan.
