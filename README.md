@@ -9,7 +9,7 @@ Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar un
 Masalah
 
 ### Cakupan Proyek
-Tuliskan cakupan proyek yang akan dikerjakan.
+cakupan
 
 ### Persiapan
 
