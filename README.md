@@ -13,7 +13,7 @@ cakupan
 
 ### Persiapan
 
-Sumber data: ....
+Sumber data: 
 
 Setup environment:
 ```
