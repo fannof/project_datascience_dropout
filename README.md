@@ -6,7 +6,14 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan perguruan yang tela
 Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar untuk sebuah institusi pendidikan. Oleh karena itu, Jaya Jaya Institut ingin mendeteksi secepat mungkin siswa yang mungkin akan melakukan dropout sehingga dapat diberi bimbingan khusus.
 
 ### Permasalahan Bisnis
-Masalah
+Sekolah ingin menganalisis berbagai faktor yang mempengaruhi kinerja akademik dan kelulusan siswa. Berdasarkan data seperti status sosial ekonomi, kualifikasi orang tua, status beasiswa, pekerjaan orang tua, serta kinerja siswa pada semester sebelumnya, sekolah berusaha untuk memahami dan mengidentifikasi siswa yang berisiko gagal atau tidak lulus tepat waktu. Dengan demikian, sekolah dapat memberikan intervensi yang tepat kepada kelompok siswa yang membutuhkan serta menganalisis siswa yang memungkinkan dropout untuk diminimalisir dengan membuat sistem machine learning yang mampu memprediksi tingkat dropout. Berikut adalah pertanyaan bisnis yang dapat diuraikan:
+
+1. Apa faktor-faktor utama yang memengaruhi kelulusan dan prestasi akademik mahasiswa?
+2. Bagaimana faktor usia, pekerjaan orang tua, dan status internasional dapat mempengaruhi prestasi akademik siswa?
+3. Apakah siswa yang mendapatkan beasiswa memiliki peluang lebih besar untuk lulus tepat waktu dibandingkan yang tidak?
+4. Bagaimana pengaruh kualifikasi orang tua dan status pekerjaan terhadap performa siswa?
+5. Berapa nilai rata-rata siswa yang melakukan dropout?
+6. Apakah status pernikahan seperti belum menikah, menikah dan sudah bercerai mempengaruhi performa siswa dalam belajar?
 
 ### Cakupan Proyek
 cakupan
