@@ -20,15 +20,41 @@ Untuk menjawab permasalahan bisnis diatas, akan dilakukan identifikasi terhadap 
 
 ### Persiapan
 
-Sumber data: 
+Sumber data: <a href="https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv">Dataset Student Jaya Jaya Insitute</a>
 
 Setup environment:
+
+- Buka terminal atau command prompt, lalu masukan perintah dibawah ini
+
+```
+conda create --name students_performance python=3.9
 ```
 
+- Aktifkan environment yang baru dibuat
+
+```
+conda activate students_performance
+```
+
+- Download semua dependencies yang berada di file requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
+- Buat kernel baru bernama 'students_performance' di jupyter
+
+```
+python -m ipykernel install --user --name students_performance --display-name "students_performance"
+```
+- Setelah semua selesai, buka Jupyter Notebook
+
+```
+jupyter notebook
 ```
 
 ## Business Dashboard
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut
+![dropout_analytics](https://github.com/user-attachments/assets/2880ab45-d7cb-497a-8677-090fbc273003)
 
 ## Menjalankan Sistem Machine Learning
 Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
