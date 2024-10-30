@@ -56,6 +56,19 @@ jupyter notebook
 ## Business Dashboard
 ![dropout_analytics](https://github.com/user-attachments/assets/2880ab45-d7cb-497a-8677-090fbc273003)
 
+Dashboard Dropout Analytics ini memberikan wawasan tentang berbagai faktor yang terkait dengan dropout dan kelulusan siswa dari institusi pendidikan. Berikut adalah deskripsi dari setiap bagian dashboard:
+
+- Visualisasi pertama menampilkan distribusi jumlah siswa berdasarkan program studi (course). Kategori Business memiliki persentase siswa tertinggi (40%), diikuti oleh Engineering (26%), Health (15%), dan Other (18%).
+- Visualisasi kedua menunjukkan distribusi gender dari seluruh siswa. Sebagian besar siswa adalah perempuan (65%), dan sisanya laki-laki (35%).
+- Visualisasi ketiga menunjukkan persentase siswa internasional. Hanya 2.49% siswa yang berasal dari luar negeri, sementara 97.51% siswa berasal dari dalam negeri.
+- Visualisasi keempat menunjukkan berbagai pekerjaan ibu dari siswa yang didaftarkan. Pekerjaan ibu yang paling umum adalah Manual Labor dengan 1.996 siswa, diikuti oleh Professional (921), Other (774), dan Student (233).
+- Visualisasi kelima menampilkan pekerjaan ayah siswa dengan distribusi yang dominan pada pekerjaan Manual Labor (2.285 siswa), diikuti oleh Professional (730), dan Other (94).
+- Visualisasi keenam membandingkan rata-rata nilai Admission Grade dan Total Units Grade antara siswa yang dropout dan yang lulus. Siswa yang dropout cenderung memiliki nilai yang lebih rendah baik pada Admission Grade maupun Total Units Grade dibandingkan siswa yang lulus.
+- Visualisasi ketujuh menunjukkan hubungan antara status perkawinan siswa dengan jumlah yang dropout. Single (lajang) memiliki angka dropout tertinggi (2.015 siswa), diikuti oleh Married (634), dan status perkawinan lainnya seperti Divorced dan Other memiliki angka yang lebih kecil.
+- Visualisasi kedelapan menampilkan distribusi jumlah dropout dan lulusan berdasarkan kelompok umur siswa. Dropout paling banyak terjadi pada siswa usia 22-24 tahun, dengan jumlah lebih dari 1.200 siswa.
+- Visualisasi kesembilan menunjukkan hubungan antara status penerima beasiswa dengan dropout atau kelulusan. Siswa yang tidak menerima beasiswa memiliki dropout yang lebih tinggi dibandingkan dengan yang menerima beasiswa.
+- visualisasi kesepuluh memberikan gambaran persentase total siswa yang dropout, sedang terdaftar, atau sudah lulus. Dropout mencakup 32% dari total siswa (4.424), 18% masih terdaftar, dan 50% telah lulus.
+
 ## Menjalankan Sistem Machine Learning
 Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
 
