@@ -77,9 +77,16 @@ Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Se
 ```
 
 ## Conclusion
-Jelaskan konklusi dari proyek yang dikerjakan.
+Proyek ini berfokus pada analisis faktor-faktor yang memengaruhi dropout siswa di institusi pendidikan. Melalui pengumpulan dan analisis data siswa yang mencakup informasi demografi, latar belakang keluarga, dan performa akademik, proyek ini memberikan wawasan mendalam tentang tren dan pola yang berkaitan dengan kelulusan dan dropout. Di bawah ini merupakan kesimpulan dari keseluruhan proyek ini:
+
+- Siswa yang belum menikah (single) menunjukkan angka dropout yang paling tinggi, jauh melampaui siswa dengan status perkawinan lainnya. Ini menunjukkan bahwa status sosial dan dukungan personal dapat berperan dalam retensi siswa di institusi.
+- Siswa dengan orang tua yang bekerja di sektor Manual Labor cenderung memiliki angka dropout lebih tinggi. Hal ini menunjukkan bahwa latar belakang ekonomi dan sosial keluarga berpotensi mempengaruhi keberhasilan akademik siswa. Sebaliknya, siswa dengan orang tua yang bekerja sebagai profesional atau berpendidikan tinggi cenderung memiliki angka dropout yang lebih rendah.
+- Siswa yang memiliki nilai Admission Grade dan Total Units Grade yang rendah cenderung lebih mungkin dropout. Ini mengindikasikan bahwa siswa yang kurang berprestasi secara akademis sejak awal berisiko lebih besar untuk tidak menyelesaikan studi mereka. Nilai akademik merupakan salah satu indikator yang penting untuk mengidentifikasi siswa yang memerlukan intervensi tambahan.
+- Siswa yang menerima beasiswa cenderung lebih sedikit dropout dibandingkan dengan yang tidak menerima beasiswa. Ini menunjukkan bahwa dukungan finansial dapat menjadi faktor penting dalam membantu siswa menyelesaikan studi mereka.
+- Sistem machine learning yang telah dibuat menggunakan 3 algoritma yaitu decision tree, random forest, dan gradien boosting, belum ada model yang memiliki performa yang sangat baik. Namun, tetap diambil algoritma yang memiliki nilai accuracy yang paling tinggi yaitu random forest.
 
 ### Rekomendasi Action Items
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-- action item 1
-- action item 2
+- Membuat program dukungan sosial atau komunitas untuk siswa dengan status single atau tanpa dukungan keluarga yang signifikan. Program ini dapat berupa konseling, bimbingan, atau kelompok dukungan yang membantu mereka mengatasi tantangan pribadi.
+- Mengimplementasikan sistem untuk memantau nilai akademik siswa secara berkelanjutan. Siswa dengan nilai Admission Grade atau Total Units Grade yang rendah bisa mendapatkan peringatan dini dan bimbingan akademik tambahan untuk membantu mereka memperbaiki kinerja mereka.
+- Karena penerima beasiswa cenderung memiliki tingkat dropout lebih rendah, perluas cakupan program beasiswa untuk siswa dari keluarga berpenghasilan rendah. Hal ini dapat membantu meringankan beban finansial dan meningkatkan motivasi siswa untuk menyelesaikan studi mereka.
+- Banyak siswa yang berasal dari keluarga dengan orang tua berpendidikan rendah atau bekerja di sektor Manual Labor mungkin kurang mendapatkan arahan karir yang tepat. Sediakan layanan bimbingan karir bagi siswa dan juga orang tua, untuk membantu mereka memahami potensi akademik dan peluang karir siswa.
