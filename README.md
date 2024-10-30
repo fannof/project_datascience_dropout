@@ -16,7 +16,7 @@ Sekolah ingin menganalisis berbagai faktor yang mempengaruhi kinerja akademik da
 6. Apakah status pernikahan seperti belum menikah, menikah dan sudah bercerai mempengaruhi performa siswa dalam belajar?
 
 ### Cakupan Proyek
-cakupan
+Untuk menjawab permasalahan bisnis diatas, akan dilakukan identifikasi terhadap faktor-faktor yang mengakibatkan tingkat dropout siswa tinggi yakni 32%. Sekolah ingin memanfaatkan data historis siswa untuk memprediksi kinerja akademik mereka dan mengidentifikasi siswa yang berpotensi mengalami kesulitan akademik, sehingga mengakibatkan dropout. Dengan pemahaman ini, intervensi dini dapat diberikan untuk meningkatkan peluang kelulusan dan kinerja siswa serta mengurangi presentase siswa yang akan dropout. Hal-hal yang dilakukan adalah menilai apakah ada hubungan langsung antara rata-rata nilai siswa dan keputusan untuk dropout apakah karena alasan dengan status pernikahan, dan apakah penyesuaian beasiswa dapat mengurangi tingkat dropout dikarenakan siswa kekurangan biaya. Dan membuat dashboard yang bersifat interaktif (menggunakan Metabase) yang menunjukkan metrik penting seperti tingkat dropout, distribusi siswa berdasarkan pendidikan, status pernikahan, dan pekerjaan orang tua, serta membangun model prediksi untuk mengetahui probabilitas siswa yang akan dropout dari sekolah, sehingga bisa diambil tindakan preventif menggunakan algoritma seperti decision tree, random forest dan gradien boosting lalu mengevaluasi performa model dengan beberapa metrik seperti accuracy, precision, dan recall.
 
 ### Persiapan
 
