@@ -1,2 +1,3 @@
+build-essential
 python3-distutils
 zlib1g-dev
