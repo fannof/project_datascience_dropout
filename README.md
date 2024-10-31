@@ -70,10 +70,22 @@ Dashboard Dropout Analytics ini memberikan wawasan tentang berbagai faktor yang 
 - Visualisasi kesepuluh memberikan gambaran persentase total siswa yang dropout, sedang terdaftar, atau sudah lulus. Dropout mencakup 32% dari total siswa (4.424), 18% masih terdaftar, dan 50% telah lulus.
 
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+- Aktifkan environment
 
 ```
+conda activate students_performance
+```
 
+- Mengatur path ke file app.py
+
+```
+cd path/to/app.py
+```
+
+- Run streamlit di lokal
+
+```
+streamlit run app.py
 ```
 
 ## Conclusion
