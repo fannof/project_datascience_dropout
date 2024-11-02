@@ -6,7 +6,7 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan perguruan yang tela
 Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar untuk sebuah institusi pendidikan. Oleh karena itu, Jaya Jaya Institut ingin mendeteksi secepat mungkin siswa yang mungkin akan melakukan dropout sehingga dapat diberi bimbingan khusus.
 
 ### Permasalahan Bisnis
-Sekolah ingin menganalisis berbagai faktor yang mempengaruhi kinerja akademik dan kelulusan siswa. Berdasarkan data seperti status sosial ekonomi, kualifikasi orang tua, status beasiswa, pekerjaan orang tua, serta kinerja siswa pada semester sebelumnya, sekolah berusaha untuk memahami dan mengidentifikasi siswa yang berisiko gagal atau tidak lulus tepat waktu. Dengan demikian, sekolah dapat memberikan intervensi yang tepat kepada kelompok siswa yang membutuhkan serta menganalisis siswa yang memungkinkan dropout untuk diminimalisir dengan membuat sistem machine learning yang mampu memprediksi tingkat dropout. Berikut adalah pertanyaan bisnis yang dapat diuraikan:
+Sekolah ingin menganalisis berbagai faktor yang mempengaruhi kinerja akademik dan kelulusan siswa. Berdasarkan data seperti status sosial ekonomi, kualifikasi orang tua, status beasiswa, pekerjaan orang tua, serta kinerja siswa pada semester sebelumnya, sekolah berusaha untuk memahami dan mengidentifikasi siswa yang berisiko gagal atau tidak lulus tepat waktu. Dengan demikian, sekolah dapat memberikan intervensi yang tepat kepada kelompok siswa yang membutuhkan serta menganalisis siswa yang memungkinkan dropout. Berikut adalah pertanyaan bisnis yang dapat diuraikan:
 
 1. Apa faktor-faktor utama yang memengaruhi kelulusan dan prestasi akademik mahasiswa?
 2. Bagaimana faktor usia, pekerjaan orang tua, dan status internasional dapat mempengaruhi prestasi akademik siswa?
@@ -87,6 +87,7 @@ cd path/to/app.py
 ```
 streamlit run app.py
 ```
+Berikut merupakan link untuk mengakses sistem machine learning tersebut secara remote <a href="https://tesssg-hascmsm2pgtahu9hvxp88u.streamlit.app/">Students Permofmance App</a>
 
 ## Conclusion
 Proyek ini berfokus pada analisis faktor-faktor yang memengaruhi dropout siswa di institusi pendidikan. Melalui pengumpulan dan analisis data siswa yang mencakup informasi demografi, latar belakang keluarga, dan performa akademik, proyek ini memberikan wawasan mendalam tentang tren dan pola yang berkaitan dengan kelulusan dan dropout. Di bawah ini merupakan kesimpulan dari keseluruhan proyek ini:
