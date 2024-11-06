@@ -87,7 +87,7 @@ cd path/to/app.py
 ```
 streamlit run app.py
 ```
-Berikut merupakan link untuk mengakses sistem machine learning tersebut secara remote <a href="https://tesssg-hascmsm2pgtahu9hvxp88u.streamlit.app/">Students Performance App</a>
+Berikut merupakan link untuk mengakses sistem machine learning tersebut secara remote <a href="https://projectdata-sciencedropout-8ktrmanlkhsf2efhlkxns6.streamlit.app/">Students Performance App</a>
 
 ## Conclusion
 Proyek ini berfokus pada analisis faktor-faktor yang memengaruhi dropout siswa di institusi pendidikan. Melalui pengumpulan dan analisis data siswa yang mencakup informasi demografi, latar belakang keluarga, dan performa akademik, proyek ini memberikan wawasan mendalam tentang tren dan pola yang berkaitan dengan kelulusan dan dropout. Di bawah ini merupakan kesimpulan dari keseluruhan proyek ini:
